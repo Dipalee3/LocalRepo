@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Simple {
 
-/*	System.setProperty("webdriver.chrome.driver","C:\\Github\\Driver\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","C:\\Github\\Driver\\chromedriver.exe");
 	WebDriver driver = new ChromeDriver(); //upcasting
 	
 	driver.manage().window().maximize();
@@ -14,7 +14,7 @@ public class Simple {
 	
 	driver.quit();
 
-}*/
+}
 }
 	
 
